@@ -1,5 +1,5 @@
 def oxford_comma(array)
-  if array.length = 1 
+  if array.length == 1 
     puts "#{array[0]}"
   else 
   last_word = array.pop
